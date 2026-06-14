@@ -3,7 +3,7 @@
 | Domains                          | Exploration , Time , Relationships          			    |
 | Difficulty                       | Multi-App Complex                                                      |                                                                  
 | Long-Horizon Context (LHC)       | High                                                                   |
-
+| Task Categories 	           | Home_and_Orginazation                                                  |
 
 
 
