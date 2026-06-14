@@ -1,0 +1,47 @@
+| Category                         | Classification                                                         |
+| -------------------------------- | ---------------------------------------------------------------------- |
+| Domains                          | Exploration , Time , Relationships          			    |
+| Difficulty                       | Multi-App Complex                                                      |                                                                  
+| Long-Horizon Context (LHC)       | High                                                                   |
+
+
+
+
+| App / Tool                     | Purpose                                                                   |
+| ------------------------------ | ------------------------------------------------------------------------- |
+| Google Drive                   | Store media packages, floor plans, rosters, contact sheets, videos        |
+| Google Calendar                | Planning meetings, sponsor meetings, review sessions, printing milestones |
+| Zoom                           | Planning meetings, sponsor discussions                                    |
+| Gmail                          | Sponsor outreach, catering outreach, stakeholder communication            |
+| Telegram                       | Sarah Chen meeting notification                                           |
+| Instagram / Marketing Assets   | Social media drafts, templates, captions                                  |
+| Maps / Hotel Search            | Accommodation recommendations                                             |
+| Shopping / Procurement         | Badges, lanyards, signage                                                 |
+| Transportation / Ride Services | Speaker and attendee transportation planning                              |
+
+| Artifact                          | Purpose                                                        |
+| --------------------------------- | -------------------------------------------------------------- |
+| Planning Document                 | Master event planning record                                   |
+| Speaker Tracker                   | Speaker management and coordination                            |
+| Stakeholder Tracker               | Contacts, sponsors, speakers, and key participants             |
+| Seating Layout                    | Venue seating allocation and attendee placement                |
+| Transportation Plan               | Travel, accommodation, and ride planning                       |
+| Vendor Tracker                    | Catering, AV, staffing, and service providers                  |
+| Volunteer Tracker                 | Volunteer assignments, availability, and responsibilities      |
+| VIP Reception Plan                | VIP networking event logistics                                 |
+| Refreshments Plan                 | Food, beverage, and hospitality planning                       |
+| Hotel Recommendations             | Accommodation options for speakers and guests                  |
+| Workflow Document                 | End-to-end summit operations and execution flow                |
+| Calendar Records                  | Meetings, milestones, deadlines, and scheduling                |
+| Zoom Meeting Records              | Virtual meeting coordination and access details                |
+| Marketing Asset Library           | Promotional images, banners, videos, and approved assets       |
+| Instagram Drafts                  | Draft social media content for review                          |
+| Instagram Template Library        | Reusable social media post templates                           |
+| Instagram Caption Library         | Caption options for various campaign types                     |
+| Registration Materials            | Badges, lanyards, signage, and attendee materials              |
+| Invitation Templates              | VIP and standard invitation designs                            |
+| Registration QR Code              | Registration and attendee sign-up access                       |
+| Catering Outreach Records         | Vendor inquiries, menus, pricing, and availability             |
+| Stakeholder Communication Records | Emails, messages, confirmations, and feedback                  |
+| Weather & Preparation Guidance    | Event-day recommendations and attendee preparation information |
+| Final Readiness Summary           | Consolidated event status and launch preparation review        |
